@@ -1,4 +1,4 @@
-# Title: Predicting Uninhabitable Regions in the U.S. due to Extreme Heat
+# Predicting Uninhabitable Regions in the U.S. due to Extreme Heat
 ## CS 152 Project Proposal by Elly Rokeach
 
 An increase in global temperatures due to climate change has resulted in increased frequency, duration, and intensity of heat waves in the United States, according to the U.S. Environmental Protection Agency. This extreme heat is exacerbated in urban areas due to the large amounts of pavement and roofs made of dark materials that absorb about 90 percent of the sun’s energy (Huber, 2017, pp. 1-2). The heat is also worsened in these areas due to a lack of tree coverage to contribute to coolness and shade, and production of waste heat from automobiles and factories. Extreme heat disproportionately affects low-income urban areas, which tend to also be areas with primarily communities of color. In a 2021 study on dimensions of thermal inequity, UC Davis researchers found that California’s poorest neighborhoods were 6 to 7 degrees hotter than the wealthiest neighborhoods “on both extreme heat days and average summer days” (Dialesandro, Brazil, Wheeler, & Abunnasr, 2021, p. 5).
