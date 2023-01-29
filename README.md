@@ -1,7 +1,6 @@
 # Predicting Uninhabitable U.S. Counties due to Extreme Heat
 
 ## Project Description
-
 Extreme heat can cause illness and death, especially among vulnerable populations who do not have enough access to self-protection strategies. Communities of elderly adults, young people, low-income people, people of color, and houseless people are particularly vulnerable. In a 2021 study on dimensions of thermal inequity, UC Davis researchers found that California’s poorest neighborhoods were 6 to 7 degrees hotter than the wealthiest neighborhoods “on both extreme heat days and average summer days” (Dialesandro, Brazil, Wheeler, & Abunnasr, 2021, p. 5). In some parts of the world, extreme heat has already rendered some towns uninhabitable, causing communities to abandon them entirely and migrate. According to a recent study published in Nature Climate Change about the increasing global risk of deadly heat, “around 30% of the world’s population is exposed to a deadly combination of heat and humidity for at least 20 days each year” (MIT Technology Review).
 
 For these reasons, in my project, I plan to determine when counties across the United States will reach unsurvivable temperatures on average and become uninhabitable. This will be helpful for planning strategies for protection and adaptation, especially for communities that are particularly vulnerable. It will also help inform crucial changes in infrastructure and policy, as well as the development of global climate solutions in general.
@@ -9,7 +8,6 @@ For these reasons, in my project, I plan to determine when counties across the U
 I will use data of average temperatures of United States counties over the course of several decades provided by the [National Centers for Environmental Information](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping). I plan to use this time series data to train a model to make predictions for increased average temperatures in U.S. counties using an LSTM network, a type of RNN capable of learning long-term dependencies.
 
 After using this network, I will then compare the predicted average temperatures to the maximum temperatures that humans can tolerate and determine which U.S. counties will become uninhabitable soonest. I could also then visually indicate these uninhabitable counties by plotting them on a map. To increase the complexity and perhaps accuracy of the project, I could also introduce other datasets, including humidity levels, which also play a role in determining how high a temperature humans can survive. I could also look at datasets that include frequency and duration of heat waves in counties across the country. Looking at the likelihood of extreme heat waves would be helpful, since one heat wave could also make a location unsurvivable, and its occurrence might not be reflected in the average yearly temperature.
-
 
 ## Project Goals
 1. Aggregate data for average temperatures in U.S. counties from the National Centers for Environmental Information.
