@@ -1,5 +1,9 @@
 # Predicting Uninhabitable U.S. Counties due to Extreme Heat
 
+<center>
+  <img src="images/county_avg_temp_jun2022.png">
+</center>
+
 ## Project Description
 Extreme heat can cause illness and death, especially among vulnerable populations who do not have enough access to self-protection strategies. Communities of elderly adults, young people, low-income people, people of color, and houseless people are particularly vulnerable. In a 2021 study on dimensions of thermal inequity, UC Davis researchers found that California’s poorest neighborhoods were 6 to 7 degrees hotter than the wealthiest neighborhoods “on both extreme heat days and average summer days” (Dialesandro, Brazil, Wheeler, & Abunnasr, 2021, p. 5). In some parts of the world, extreme heat has already rendered some towns uninhabitable, causing communities to abandon them entirely and migrate. According to a recent study published in Nature Climate Change about the increasing global risk of deadly heat, “around 30% of the world’s population is exposed to a deadly combination of heat and humidity for at least 20 days each year” (MIT Technology Review).
 
