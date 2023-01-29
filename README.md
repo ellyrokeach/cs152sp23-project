@@ -4,7 +4,6 @@
   <img src="images/county_avg_temp_jun2022.png">
 </center>
 
-<p align="left">
 ## Project Description
 Extreme heat can cause illness and death, especially among vulnerable populations who do not have enough access to self-protection strategies. Communities of elderly adults, young people, low-income people, people of color, and houseless people are particularly vulnerable. In a 2021 study on dimensions of thermal inequity, UC Davis researchers found that California’s poorest neighborhoods were 6 to 7 degrees hotter than the wealthiest neighborhoods “on both extreme heat days and average summer days” (Dialesandro, Brazil, Wheeler, & Abunnasr, 2021, p. 5). In some parts of the world, extreme heat has already rendered some towns uninhabitable, causing communities to abandon them entirely and migrate. According to a recent study published in Nature Climate Change about the increasing global risk of deadly heat, “around 30% of the world’s population is exposed to a deadly combination of heat and humidity for at least 20 days each year” (MIT Technology Review).
 
@@ -39,4 +38,3 @@ NOAA National Centers for Environmental Information. (2023, January). Climate at
 Smith, J. M. (2021, November 19). Urban Extreme Heat Dataset Offers Population Exposure Estimates for More Than 13,000 Urban Settlements Worldwide. NASA. Retrieved January 29, 2023, from https://www.earthdata.nasa.gov/learn/articles/urban-extreme-heat-dataset 
 
 Waldron, L., & Lustgarten, A. (2020, November 10). Climate Change Will Make Parts of the U.S. Uninhabitable. Americans Are Still Moving There. ProPublica. Retrieved January 29, 2023, from https://www.propublica.org/article/climate-change-will-make-parts-of-the-u-s-uninhabitable-americans-are-still-moving-there 
-</p>
