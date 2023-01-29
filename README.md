@@ -1,4 +1,4 @@
-# Predicting Uninhabitable Regions in the U.S. due to Extreme Heat
+# Predicting Uninhabitable U.S. Counties due to Extreme Heat
 
 ### Project Description
 
