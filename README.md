@@ -1,4 +1,4 @@
-# Predicting Uninhabitable U.S. Counties due to Extreme Heat
+# Predicting Uninhabitable U.S. Counties due to Extreme Heat Induced by Climate Change
 
 <center>
   <img src="images/county_avg_temp_jul2022.png">
