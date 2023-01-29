@@ -1,7 +1,7 @@
 # Predicting Uninhabitable U.S. Counties due to Extreme Heat
 
 <center>
-  <img src="images/county_avg_temp_jun2022.png">
+  <img src="images/county_avg_temp_jul2022.png">
 </center>
 
 ## Project Description
