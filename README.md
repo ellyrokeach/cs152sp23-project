@@ -5,7 +5,10 @@
 </center>
 
 ## Project Description
-<img style="float: right;" src="images/baybridge_orange.png">
+![image alt >](images/baybridge_orange.png)
+img[alt$=">"] {
+  float: right;
+}
 Extreme heat can cause illness and death, especially among vulnerable populations who do not have enough access to self-protection strategies. Communities of elderly adults, young people, low-income people, people of color, and houseless people are particularly vulnerable. In a 2021 study on dimensions of thermal inequity, UC Davis researchers found that California’s poorest neighborhoods were 6 to 7 degrees hotter than the wealthiest neighborhoods “on both extreme heat days and average summer days” (Dialesandro, Brazil, Wheeler, & Abunnasr, 2021, p. 5). In some parts of the world, extreme heat has already rendered some towns uninhabitable, causing communities to abandon them entirely and migrate. According to a recent study published in Nature Climate Change about the increasing global risk of deadly heat, “around 30% of the world’s population is exposed to a deadly combination of heat and humidity for at least 20 days each year” (MIT Technology Review).
 
 For these reasons, in my project, I plan to determine when counties across the United States will reach unsurvivable temperatures on average and become uninhabitable. This will be helpful for planning strategies for protection and adaptation, especially for communities that are particularly vulnerable. It will also help inform crucial changes in infrastructure and policy, as well as the development of global climate solutions in general.
